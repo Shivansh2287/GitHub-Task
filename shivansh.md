@@ -1,5 +1,7 @@
-Name:shivansh srivastava
-institution: galgotia university 
-year:2nd 
-github user:Shivansh2287
-phone no.-9793440595
+---
+Name: Shivansh Srivastava
+Institution: Galgotias University🚩 
+Year: 2nd 
+Github_user: shivansh2287
+Phone no.: 9793440595
+---
